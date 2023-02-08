@@ -46,3 +46,6 @@ The listing should end with a new line
 **0 string HOLBERTON Holberton data
 ! :mime Holberton** - a magic file holberton.mgc that can be used with the command file to detect Holberton data files. Holberton data files always contain the string HOLBERTON at offset 0.
 #
+
+Azeez Lawal.
+Please, Read The F** Manual(RTFM)
